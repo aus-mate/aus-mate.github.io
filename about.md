@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Offensive security enthusiast, with particular interest in the following areas:
-- Fuzzing & Exploit Development
+- Fuzzing 
+- Exploit Development
 - Reverse Engineering
 - Red Teaming
