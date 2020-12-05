@@ -1,8 +1,7 @@
 ---
 layout: post
-title: OSCE Review
+title: OSCE (in 15 hours)
 ---
-# Reasons
 The purpose of this blog post is to serve as a reminder for myself of my experience in gaining OSCE. 
 
 OSCE was always a long term personal goal of mine. When I heard it was being retired I immediately signed up, as I did not want to miss the opportunity to do the (in my head) legendary certification.
