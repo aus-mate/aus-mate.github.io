@@ -82,4 +82,4 @@ OSCE, in my opinion, was easy. It differed from OSCP in the sense that you were 
 
 All in all, I enjoyed the course and I am very proud to become an OSCE, albeit a legacy OSCE now! Thanks offsec for the course and exam.
 
-[<img src="{{ site.baseurl }}/images/screenshot_osce.png"]({{ site.baseurl }})/>
+[<img src="{{ site.baseurl }}/images/screenshot_osce.png"/>
