@@ -77,9 +77,9 @@ Opting to put my money on the original route, I began following my exploitation 
 ### 2000 - +30 points
 After just 15 hours the last task was completed, I had managed to obtain all available points (90/90) and just now had to focus on not making a mess of the report. I then used the second day to make sure I had all of the required screenshots, write and submit the exam report.
 
-
 # Reflection
 OSCE, in my opinion, was easy. It differed from OSCP in the sense that you were always told what to do, you just had to know how to do it. Because of this, I believe OSCE is all in the prep, if you had prepared enough then it would be a piece of cake, if you hadn't... well then you were in for a long 48 hours of wishing you had prepared more. 
 
 All in all, I enjoyed the course and I am very proud to become an OSCE, albeit a legacy OSCE now! Thanks offsec for the course and exam.
 
+[<img src="{{ site.baseurl }}/images/screenshot_osce.png"]({{ site.baseurl }}/)
