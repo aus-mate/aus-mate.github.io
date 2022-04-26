@@ -21,8 +21,8 @@
 title: au5
 email: au5@0x3b.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog to brain dump and collate thoughts. Content will generally relate to Hacking / 
-  Offensive Security focusing on Red Teaming / Adversary Simulation and Security Research.  
+  Brain dump of musings related to Hacking / 
+  Offensive Security, focused on Red Teaming / Adversary Simulation and Security Research.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "0x3b.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: \@au5_mate
