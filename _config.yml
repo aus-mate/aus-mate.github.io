@@ -29,9 +29,8 @@ twitter_username: \@au5_mate
 github_username:  aus-mate
 
 # Build settings
-remote_theme: pages-themes/midnight@v0.2.0
+theme: jekyll-theme-midnight
 plugins:
-  - jekyll-remote-theme 
   - jekyll-feed
 
 # Exclude from processing.
